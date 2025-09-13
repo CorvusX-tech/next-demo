@@ -49,7 +49,7 @@ export default function ProfilesPage() {
               </div>
               <div>
                 <h2 style={{ margin:0, fontSize:18 }}>{u.name}</h2>
-                <div style={{ color:'#666', fontSize:13 }}>{u.email}</div>d
+                <div style={{ color:'#666', fontSize:13 }}>{u.email}</div>
               </div>
             </header>
 
